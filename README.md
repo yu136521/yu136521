@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yu136521
 - 👀 I’m from China
-- 🌱 I’m learning python.
+- 🌱 I’m learning python. But i am only 13 years old =)
 - Welcome to come Github!
 
 <!---
